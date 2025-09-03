@@ -8,9 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@dnd-kit/core": "^6.0.7",
-"@dnd-kit/sortable": "^6.0.7",
-"@dnd-kit/tree": "^4.0.4",
+    "@dnd-kit/core": "^7.0.0",
+    "@dnd-kit/sortable": "^7.0.0",
+    "@dnd-kit/tree": "^5.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.12.0"
